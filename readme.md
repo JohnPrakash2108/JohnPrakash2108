@@ -103,10 +103,4 @@
 
 > “The *Diamond* I got in the search of gold.” 💎
 
----
 
-### 🎮 Bonus Animation (ASCII Matrix Rain)
-
-```bash
-npm install matrix-rain
-matrix-rain
