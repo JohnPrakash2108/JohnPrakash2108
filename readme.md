@@ -66,14 +66,6 @@
 ### 🔥 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/johnprakash2108/johnprakash2108/raw/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-### 🧑‍🚀 Animated Banner
-
-<p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
   <br>
   <img src="https://user-images.githubusercontent.com/74038190/213876685-4e82f6cd-3f3e-42aa-90c3-641d35f3e6ec.gif" width="500"/>
