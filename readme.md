@@ -1,53 +1,46 @@
-<!-- Profile Header -->
+<!-- Center waving hand -->
 <p align="center">
-  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="40px">  
+  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="60px" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=800&height=60&lines=Hi+I'm+John+Prakash+Balireddy;Frontend+%26+Mobile+Developer;React+Native+%7C+Next.js+%7C+Java+%7C+Django;Let's+build+something+amazing+💡" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hey, I'm John Prakash Balireddy 👨‍💻</h1>
 
----
-
-<!-- 3D Astronaut Floating SVG -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+%F0%9F%9A%80+React.js+%7C+Next.js+%7C+React+Native;Backend+%E2%9A%99%EF%B8%8F+Spring+Boot+%7C+Django+%7C+Node.js;Mobile+App+Developer+%F0%9F%9A%F2%EF%B8%8F+%7C+Hackathon+Winner;Always+Learning+%F0%9F%93%9A+and+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-🌟 B.Tech CSE @ SRKR Engineering College  
-🏆 3x Hackathon Finalist | React, Next.js, Spring Boot  
-🛠️ Frontend Intern at **Mobiclo InfoTech Solutions**  
-📱 React Native Intern at **Labfox Studio**
+- 🔭 Frontend Intern @ **Mobiclo InfoTech**
+- 📱 React Native Intern @ **Labfox Studio**
+- 🧑‍🎓 B.Tech CSE @ SRKR Engineering College  
+- 🧠 Currently learning DSA, UI/UX, scalable architecture
 
 ---
 
-### 🧰 Languages & Tools
+### 💻 Code Like This...
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,ts,js,java,python,nodejs,express,django,mongodb,mysql,figma,github,vscode,firebase,androidstudio&theme=dark" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450">
 </p>
 
 ---
 
-### 🛠 Notable Projects
+### 🚀 Tech Stack
 
-| 🚀 Project | 🧪 Stack | 📌 Highlights |
-|-----------|----------|---------------|
-| **Geo Attendance App** | React Native, Node.js, MongoDB | Live check-in/out, spoof detection, shift tracking |
-| **EUREKA** | React, Spring Boot, MySQL | Idea sharing, real-time chat, OTP-based login |
-| **AI Yoga Tutor** | React Native, PoseNet, TTS | Corrects posture using real-time feedback |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,java,python,nodejs,express,django,mongodb,mysql,figma,androidstudio,firebase,github,vscode&theme=dark" />
+</p>
 
 ---
 
-### 📊 My GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johnprakash2108&theme=radical&show_icons=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnprakash2108&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=johnprakash2108&theme=merko&show_icons=true" height="180px"/>
+  <img src="https://streak-stats.demolab.com?user=johnprakash2108&theme=merko&hide_border=true" height="180px"/>
 </p>
 
 ---
@@ -55,32 +48,65 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=johnprakash2108&theme=discord&row=1&margin-w=20&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=johnprakash2108&theme=radical&no-bg=true&no-frame=true&column=6" />
 </p>
 
 ---
 
-### 🔗 Let's Connect
+### 🧠 Projects & Hackathons
+
+| 🚀 Project | Tech | Highlights |
+|--|--|--|
+| Geo Attendance | React Native, Node.js | Location spoof check, check-in/out |
+| Eureka Platform | React, Spring Boot | Real-time chat, OTP login |
+| AI Yoga Tutor | React Native, PoseNet | Posture detection, audio feedback |
+
+---
+
+### 🔥 Contribution Snake
 
 <p align="center">
-  <a href="mailto:balireddyjohnprakash01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/john-prakash-balireddy-0172a62b8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/johnprakash2108"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://github.com/johnprakash2108/johnprakash2108/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-### 🧠 Quote
-
-> 💎 *"The Diamond I got in the search of gold."*
-
----
-
-### 🔥 Contribution Snake Animation
+### 🧑‍🚀 Animated Banner
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+  <br>
+  <img src="https://user-images.githubusercontent.com/74038190/213876685-4e82f6cd-3f3e-42aa-90c3-641d35f3e6ec.gif" width="500"/>
 </p>
 
 ---
 
+### 👁️ Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=johnprakash2108&label=Profile+Views&color=brightgreen" />
+</p>
+
+---
+
+### 📬 Connect With Me
+
+<p align="center">
+  <a href="mailto:balireddyjohnprakash01@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/john-prakash-balireddy-0172a62b8"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/johnprakash2108"><img src="https://img.shields.io/badge/-GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+### 💎 My Favorite Quote
+
+> “The *Diamond* I got in the search of gold.” 💎
+
+---
+
+### 🎮 Bonus Animation (ASCII Matrix Rain)
+
+```bash
+npm install matrix-rain
+matrix-rain
